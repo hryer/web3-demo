@@ -49,3 +49,21 @@ https://github.com/hryer/starNotaryV2
 
 ## dApps (Supply Chain)
 https://github.com/hryer/coffee-supply-chain
+
+---
+
+# Sample Web3 apps
+
+## OpenSea & Rarible (NFT Marketplaces)
+https://opensea.io/
+https://rarible.com/
+
+## Uniswap & Sushiswap (Decentralized Exchanges)
+https://uniswap.org/
+https://www.sushi.com/
+
+## Axie Infinity (Decentralized Games)
+https://app.axieinfinity.com/games/
+
+## Sandbox (Metaverse)
+https://www.sandbox.game/en/

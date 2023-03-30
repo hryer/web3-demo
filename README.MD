@@ -1,0 +1,51 @@
+# Development Tools
+## Remix (IDE)
+https://remix.ethereum.org/
+
+## Metamask (Wallet)
+https://metamask.io/
+
+## Ganache (Local Blockchain)
+https://trufflesuite.com/ganache/
+
+## Alchemy (RPC)
+https://www.alchemy.com/
+
+## Infura (RPC)
+https://www.infura.io/
+
+## IPFS (p2p media protocol)
+https://ipfs.tech/
+
+## Pinata (IPFS Gateway)
+https://www.pinata.cloud/#learn-more
+
+## Filebase (IPFS Gateway)
+https://filebase.com/
+
+-----
+
+# Development Environment
+## Hardhat
+https://hardhat.org/
+
+## Truffle
+https://trufflesuite.com/truffle/
+
+## Foundry
+https://getfoundry.sh/
+
+## Open Zeppelin
+https://www.openzeppelin.com/
+
+---
+
+# Sample Code
+## Token (ERC-20)
+https://github.com/hryer/love-token
+
+## NFT (ERC-721)
+https://github.com/hryer/starNotaryV2
+
+## dApps (Supply Chain)
+https://github.com/hryer/coffee-supply-chain

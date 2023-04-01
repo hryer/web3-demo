@@ -71,3 +71,6 @@ https://app.axieinfinity.com/games/
 
 ## Sandbox (Metaverse)
 https://www.sandbox.game/en/
+
+# Any Questions about web3, blockchain, decentralized worlds?
+https://twitter.com/hryer_dev

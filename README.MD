@@ -41,10 +41,14 @@ https://www.openzeppelin.com/
 ---
 
 # Sample Code
+
+## Basic NFT (ERC-721) -- DEMO DAY
+https://github.com/hryer/nft-tutorial
+
 ## Token (ERC-20)
 https://github.com/hryer/love-token
 
-## NFT (ERC-721)
+## NFT Advances (ERC-721)
 https://github.com/hryer/starNotaryV2
 
 ## dApps (Supply Chain)
